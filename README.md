@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce System
 # E-commerce System
 
@@ -115,3 +116,7 @@ php
 echo "PHP is working!";
 ?>
 Visit: http://localhost/ecommerce_project/test.php to confirm.
+=======
+# ecommerce_project
+intenship project
+>>>>>>> dfa5ba3bbe86a4c5481de0fa2b4419d033d18572
